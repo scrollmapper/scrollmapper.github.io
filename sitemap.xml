@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://scrollmapper.github.io/</loc>
+    <lastmod>2020-08-22T18:23:55-10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://scrollmapper.github.io/scrolls/extrabiblical/1-adam-and-eve/</loc>
     <lastmod>2020-08-22T18:23:55-10:00</lastmod>
   </url>
@@ -1994,11 +2000,6 @@
   
   <url>
     <loc>https://scrollmapper.github.io/scrolls/biblical/ylt/8-ruth-young-s-literal-translation-ylt/</loc>
-    <lastmod>2020-08-22T18:23:55-10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scrollmapper.github.io/</loc>
     <lastmod>2020-08-22T18:23:55-10:00</lastmod>
   </url>
   
