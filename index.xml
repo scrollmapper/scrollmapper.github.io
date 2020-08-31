@@ -4257,5 +4257,27 @@ This repo, like the many others on GitHub will be kept in cold storage for futur
 This event provides us with an opportunity similar to the caves of Qumran.</description>
     </item>
     
+    <item>
+      <title>Index of Apocryphal and Extrabiblical Texts</title>
+      <link>https://scrollmapper.github.io/pages/apocryphal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scrollmapper.github.io/pages/apocryphal/</guid>
+      <description>1 Enoch
+  2 Enoch
+  3 Enoch
+  1 Esdras
+  2 Esdras
+  1 Baruch
+  2 Baruch
+  3 Baruch
+  4 Baruch
+  1 Hermas
+  2 Hermas
+  3 Hermas
+  The Testament of Reuben / Testaments of the Twelve Patriarchs
+  The Testament of Simeon / Testaments of the Twelve Patriarchs</description>
+    </item>
+    
   </channel>
 </rss>
